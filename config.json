@@ -1,0 +1,12 @@
+{
+  "prefix": "$",
+  "token": "MTAxOTY2MTYwMDg1ODMxNjg3MQ.GUIU9x.LRtNLyA3VGCxH1YuTdzVX7Y3wnquHbcPZ4KkMMM",
+  "owners": ["615963545208750080"],
+  "footer": "ملاك المحنة",
+
+  "msg": {
+    "nsfwWarn": "عليك استخدام الأمر في قناة nsfw!",
+    "loading": "يرجى الأنتظار",
+    "imageNotLoading": "الصورة لا تظهر؟ اظغط هنا"
+  }
+}
